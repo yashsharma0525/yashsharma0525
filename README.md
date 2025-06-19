@@ -22,10 +22,7 @@
 </div>
 <hr>
 
-<center>
-<h2><b>📦 I've built: 📦
-</b></h2>
-</center>
+<div align = "center"><h2><b>📦 I've built: 📦</b></h2></div>
 
 <div align="left">
   - 🌫️ Smart AQI Monitoring System <br>
@@ -40,7 +37,7 @@
 
 ---
 
-<center><h2><b> 🛠️ Skills I'm Exploring 🛠️</b></h2></center>
+<div align = "center"><h2><b> 🛠️ Skills I'm Exploring 🛠️</b></h2></div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
@@ -53,8 +50,7 @@
 
 ---
 
-<center><h2><b> 📊 GitHub Stats (Getting Started!) 📊
-</b></h2></center>
+<div align = "center"><h2><b> 📊 GitHub Stats (Getting Started!) 📊 </b></h2></div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YASH-SHARMA&show_icons=true&theme=react&border_radius=10" width="390" />
@@ -63,7 +59,7 @@
 
 ---
 
-<center><h2><b>🐍 Contributions (Soon to Fill Up!) 🐍</b></h2></center>
+<div align = "center"><h2><b>🐍 Contributions (Soon to Fill Up!) 🐍</b></h2></div>
 
 <div align="center">
   <img alt="snake gif" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -71,7 +67,7 @@
 
 ---
 
-<center><h2><b>📬 Connect with Me 📬</b></h2></center>
+<div align = "center"><h2><b>📬 Connect with Me 📬</b></h2></div>
 
 <div align="center">
   <a href="mailto:yashtech0.525@gmail.com">
@@ -84,7 +80,7 @@
 
 ---
 
-<center><h2><b>📄 My Resume 📄</b></h2></center>
+<div align = "center"><h2><b>📄 My Resume </b></h2></div>
 
 <div align="center">
   <a href="https://github.com/YASH-SHARMA/YASH-SHARMA/raw/main/Yash_Sharma_Resume.pdf" target="_blank">
