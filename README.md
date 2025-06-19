@@ -1,16 +1,80 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YASH-SHARMA.YASH-SHARMA" />
 
-<!--
-**yashsharma0525/yashsharma0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yash+Sharma!;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">B.Tech CSE Student | IoT & Embedded Systems Enthusiast 🇮🇳</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFF7&center=true&vCenter=true&width=900&height=70&lines=Welcome+to+My+GitHub+Lab+👨‍🔬;IoT+Builder+%7C+Dreamer+%7C+Tech+Learner+🛠️" />
+</div>
+
+---
+
+### 💡 About Me
+
+- 🎓 I'm currently a **B.Tech CSE** student at **Invertis University**
+- 🔭 Currently working on **Raspberry Pi 5 projects**
+- 🌱 Learning about **IoT sensors**, **basic electronics**, and **HTML**
+- 📦 I've built:
+  - 🌫️ Smart AQI Monitoring System
+  - 🌱 Smart Environment Monitoring for Indoor Farming
+  - ⏰ Automated School Bell System
+  - 🆔 RFID-Based Attendance System
+- 🚀 I worked on a startup idea **"Smart Transit"**, which helped me grow even though it was rejected!
+
+---
+
+### 🛠️ Skills I'm Exploring
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+</div>
+
+- 👨‍💻 Programming: Basic HTML, CSS
+- 🔌 Hardware: Raspberry Pi 5, ESP32, Arduino
+- 📟 Sensors: DHT11, SGP30, OLED, RFID, Buzzer
+
+---
+
+### 📊 GitHub Stats (Getting Started!)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YASH-SHARMA&show_icons=true&theme=react&border_radius=10" width="390" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASH-SHARMA&theme=react&border_radius=10" width="390" />
+</div>
+
+---
+
+### 🐍 Contributions (Soon to Fill Up!)
+
+<div align="center">
+  <img alt="snake gif" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+### 📬 Connect with Me
+
+<div align="center">
+  <a href="mailto:yashtech0.525@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/yash-sharma-126b3b2a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 📄 My Resume
+
+<div align="center">
+  <a href="https://github.com/YASH-SHARMA/YASH-SHARMA/raw/main/Yash_Sharma_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Download+Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+  </a>
+</div>
