@@ -14,21 +14,33 @@
 
 ---
 
-### 💡 About Me
+<center><h2><b>💡 About Me </b></h2></center>
 
 - 🎓 I'm currently a **B.Tech CSE** student at **Invertis University**
 - 🔭 Currently working on **Raspberry Pi 5 projects**
 - 🌱 Learning about **IoT sensors**, **basic electronics**, and **HTML**
-- 📦 I've built:
-  - 🌫️ Smart AQI Monitoring System
+</div>
+<hr>
+
+<center>
+<h2><b>📦 I've built: 📦
+</b></h2>
+</center>
+
+<div align="left">
+  - 🌫️ Smart AQI Monitoring System <br>
   - 🌱 Smart Environment Monitoring for Indoor Farming
+  <br>
   - ⏰ Automated School Bell System
+  <br>
   - 🆔 RFID-Based Attendance System
+  <br>
 - 🚀 I worked on a startup idea **"Smart Transit"**, which helped me grow even though it was rejected!
+</div>
 
 ---
 
-### 🛠️ Skills I'm Exploring
+<center><h2><b> 🛠️ Skills I'm Exploring 🛠️</b></h2></center>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
@@ -41,7 +53,8 @@
 
 ---
 
-### 📊 GitHub Stats (Getting Started!)
+<center><h2><b> 📊 GitHub Stats (Getting Started!) 📊
+</b></h2></center>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YASH-SHARMA&show_icons=true&theme=react&border_radius=10" width="390" />
@@ -50,7 +63,7 @@
 
 ---
 
-### 🐍 Contributions (Soon to Fill Up!)
+<center><h2><b>🐍 Contributions (Soon to Fill Up!) 🐍</b></h2></center>
 
 <div align="center">
   <img alt="snake gif" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -58,7 +71,7 @@
 
 ---
 
-### 📬 Connect with Me
+<center><h2><b>📬 Connect with Me 📬</b></h2></center>
 
 <div align="center">
   <a href="mailto:yashtech0.525@gmail.com">
@@ -71,7 +84,7 @@
 
 ---
 
-### 📄 My Resume
+<center><h2><b>📄 My Resume 📄</b></h2></center>
 
 <div align="center">
   <a href="https://github.com/YASH-SHARMA/YASH-SHARMA/raw/main/Yash_Sharma_Resume.pdf" target="_blank">
