@@ -14,7 +14,7 @@
 
 ---
 
-<div align = "center">"💡 About Me </div>
+<div align = "center"><h2><b>💡 About Me </b></h2></div>
 
 - 🎓 I'm currently a **B.Tech CSE** student at **Invertis University**
 - 🔭 Currently working on **Raspberry Pi 5 projects**
