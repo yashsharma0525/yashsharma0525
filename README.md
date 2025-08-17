@@ -33,6 +33,8 @@
   - 🆔 RFID-Based Attendance System
   <br>
 - 🚀 I worked on a startup idea **"Smart Transit"**, which helped me grow even though it was rejected!
+  <br>
+  -  Raspberry Pi 5 IVR System (SIM800L)
 </div>
 
 ---
